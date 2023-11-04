@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 212121Guygduywqfhfgh
+=======
+<<<<<<< HEAD
+32321Guygduywqfhfgh
+=======
+Guygduywqfhfghsdada
+>>>>>>> C4
+>>>>>>> B1
